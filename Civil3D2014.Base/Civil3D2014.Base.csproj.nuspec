@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Civil3D2014.Base</id>
-    <version>1.0.0</version>
-    <authors>Dmitriy Zagorulkin</authors>
+    <version>1.0.3</version>
+    <authors>Dmitriy Zagorulkin</authors>    
     <description>Base libraries for Autodesk Civil 3D API SDK</description>
     <releaseNotes>Initial release</releaseNotes>
     <tags>Autodesk Civil3D 2014 SDK</tags>
