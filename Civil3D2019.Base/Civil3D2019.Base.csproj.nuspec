@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Civil3D2019.Base</id>
+    <version>1.0.0</version>
+    <authors>Dmitriy Zagorulkin</authors>
+    <description>Base libraries for Autodesk Civil 3D API SDK</description>
+    <releaseNotes>Initial release</releaseNotes>   
+    <tags>Autodesk Civil3D 2019 SDK</tags>    
+  </metadata>
+  <files>
+    <file src="bin\Release\AecBaseMgd.dll" target="lib" />
+    <file src="bin\Release\AeccDbMgd.dll" target="lib" />
+  </files>
+</package>
