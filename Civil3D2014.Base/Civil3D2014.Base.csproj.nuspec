@@ -11,5 +11,6 @@
   <files>
     <file src="bin\Release\AecBaseMgd.dll" target="lib" />
     <file src="bin\Release\AeccDbMgd.dll" target="lib" />
+    <file src="bin\Release\install.ps1" target="tools" />
   </files>
 </package>

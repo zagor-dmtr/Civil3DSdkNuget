@@ -61,7 +61,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="install.ps1" />
+    <None Include="install.ps1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />  
 </Project>
