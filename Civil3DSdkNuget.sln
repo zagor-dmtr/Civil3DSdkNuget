@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D2017.Base", "Civil3D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D2018.Base", "Civil3D2018.Base\Civil3D2018.Base.csproj", "{04750A5A-2E24-4F5F-BB83-D1F6B3006AA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D2020.Base", "Civil3D2020.Base\Civil3D2020.Base.csproj", "{B4005809-5E3E-4359-B8FA-9D0318996CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D2021.Base", "Civil3D2021.Base\Civil3D2021.Base.csproj", "{CA84C8EB-39C6-4345-A484-2599696F20B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{04750A5A-2E24-4F5F-BB83-D1F6B3006AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04750A5A-2E24-4F5F-BB83-D1F6B3006AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04750A5A-2E24-4F5F-BB83-D1F6B3006AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4005809-5E3E-4359-B8FA-9D0318996CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4005809-5E3E-4359-B8FA-9D0318996CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4005809-5E3E-4359-B8FA-9D0318996CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4005809-5E3E-4359-B8FA-9D0318996CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA84C8EB-39C6-4345-A484-2599696F20B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA84C8EB-39C6-4345-A484-2599696F20B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA84C8EB-39C6-4345-A484-2599696F20B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA84C8EB-39C6-4345-A484-2599696F20B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
