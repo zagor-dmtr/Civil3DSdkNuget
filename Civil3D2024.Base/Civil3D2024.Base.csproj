@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>net48</TargetFramework>
@@ -11,10 +11,10 @@
 
     <ItemGroup>
       <Reference Include="AecBaseMgd">
-        <HintPath>..\..\..\..\Work\SDK\AutoCAD Civil\Civil 2022\managed-x64\AecBaseMgd.dll</HintPath>
+        <HintPath>..\..\..\..\Work\SDK\AutoCAD Civil\Civil 2024\AecBaseMgd.dll</HintPath>
       </Reference>
       <Reference Include="AeccDbMgd">
-        <HintPath>..\..\..\..\Work\SDK\AutoCAD Civil\Civil 2022\managed-x64\AeccDbMgd.dll</HintPath>
+        <HintPath>..\..\..\..\Work\SDK\AutoCAD Civil\Civil 2024\AeccDbMgd.dll</HintPath>
       </Reference>
     </ItemGroup>
 
