@@ -55,13 +55,6 @@
     <None Include="Civil3D2019.Base.csproj.nuspec" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="NuGet.CommandLine">
-      <Version>5.8.0</Version>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="..\Civil3D2014.Base\install.ps1">
       <Link>install.ps1</Link>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
